@@ -1,3 +1,6 @@
+# Sequential-Bayesian-Optimization
+ Optimization of pre-defined set of input variables targetting on maximizing/minimizing desired outcome from the experiment.
+
 
 - [Sequential-Bayesian-Optimization](#sequential-bayesian-optimization)
   - [Team](#team)
@@ -16,8 +19,6 @@
       - [2.c. Pip install the necessary packages](#2c-pip-install-the-necessary-packages)
     - [3. Run jupyter notebook](#3-run-jupyter-notebook)
 
-# Sequential-Bayesian-Optimization
- Optimization of pre-defined set of input variables targetting on maximizing/minimizing desired outcome from the experiment.
 
 ## Team
  - Vanshita Gupta
