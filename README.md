@@ -1,3 +1,21 @@
+
+- [Sequential-Bayesian-Optimization](#sequential-bayesian-optimization)
+  - [Team](#team)
+  - [Dataset](#dataset)
+  - [Experiments](#experiments)
+    - [(*Minimizer*) One-dimensional Bayesian Optimization (`Notebooks/onedimensional_BO.ipynb`)](#minimizer-one-dimensional-bayesian-optimization-notebooksonedimensional_boipynb)
+    - [(*Minimizer*) Hyperparameter Bayesian Optimization (`Notebooks/hyperparameter_BO.ipynb`)](#minimizer-hyperparameter-bayesian-optimization-notebookshyperparameter_boipynb)
+    - [(*Minimizer*) Multi-dimensional Bayesian Optimization (`Notebooks/multidimensional_BO_minimizer.ipynb`)](#minimizer-multi-dimensional-bayesian-optimization-notebooksmultidimensional_bo_minimizeripynb)
+    - [(*Minimizer*) Top-5 points Multi-dimensional Bayesian Optimization (`Notebooks/top5points_multidimensional_BO_minimizer.ipynb`)](#minimizer-top-5-points-multi-dimensional-bayesian-optimization-notebookstop5points_multidimensional_bo_minimizeripynb)
+    - [(*Maximizer*) Multi-dimensional Bayesian Optimization (`Notebooks/multidimensional_BO_maximizer.ipynb`)](#maximizer-multi-dimensional-bayesian-optimization-notebooksmultidimensional_bo_maximizeripynb)
+  - [Steps to Run](#steps-to-run)
+    - [1. Clone the repository](#1-clone-the-repository)
+    - [2. Install the necessary packages](#2-install-the-necessary-packages)
+      - [2.a. Create a virtual environment](#2a-create-a-virtual-environment)
+      - [2.b. Source onto that environment](#2b-source-onto-that-environment)
+      - [2.c. Pip install the necessary packages](#2c-pip-install-the-necessary-packages)
+    - [3. Run jupyter notebook](#3-run-jupyter-notebook)
+
 # Sequential-Bayesian-Optimization
  Optimization of pre-defined set of input variables targetting on maximizing/minimizing desired outcome from the experiment.
 
