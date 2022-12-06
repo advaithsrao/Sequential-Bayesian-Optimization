@@ -7,6 +7,7 @@ astunparse==1.6.3
 attrs==22.1.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
+bayesian-optimization
 bleach==5.0.1
 cachetools==5.2.0
 certifi==2022.9.24
@@ -111,13 +112,6 @@ soupsieve==2.3.2.post1
 SQLAlchemy==1.4.41
 stack-data==0.5.1
 support-developer==1.0.4
-tensorboard==2.10.1
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.10.0
-tensorflow-estimator==2.10.0
-tensorflow-io-gcs-filesystem==0.27.0
-tensorflow-probability==0.18.0
 termcolor==2.0.1
 terminado==0.16.0
 threadpoolctl==3.1.0
