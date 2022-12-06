@@ -18,6 +18,7 @@
       - [2.b. Source onto that environment](#2b-source-onto-that-environment)
       - [2.c. Pip install the necessary packages](#2c-pip-install-the-necessary-packages)
     - [3. Run jupyter notebook](#3-run-jupyter-notebook)
+  - [References](#references)
 
 
 ## Team
@@ -77,6 +78,21 @@ The experiments we ran could be found in the `Notebooks/` Folder.
 Start a jupyter notebook session and run the desired experiment.
 
 ```jupyter notebook```
+
+## References
+
+1. Hutter, F., Hoos, H.H. and Leyton-Brown, K., 2011, January; Sequential model-based optimization for general algorithm configuration. In International conference on learning and intelligent optimization (pp. 507-523). Springer, Berlin, Heidelberg.
+
+
+2. Shields, B.J., Stevens, J., Li, J., Parasram, M., Damani, F., Alvarado, J.I.M., Janey, J.M., Adams, R.P. and Doyle, A.G., 2021; Bayesian reaction optimization as a tool for chemical synthesis. Nature, 590(7844), pp.89-96.
+
+3. Christensen, M., Yunker, L.P., Adedeji, F., Häse, F., Roch, L.M., Gensch, T., dos Passos Gomes, G., Zepel, T., Sigman, M.S., Aspuru-Guzik, A. and Hein, J.E., 2021; Data-science driven autonomous process optimization. Communications Chemistry, 4(1), pp.1-12.
+
+4. https://github.com/aspuru-guzik-group/olympus/tree/main/src/olympus/datasets; Olympus datasets for Bayesian Optimization.
+
+5. https://github.com/scikit-optimize/scikit-optimize; Scikit Optimize package for surrogate function to implement SMBO(gp_minimize).
+
+6. https://github.com/fmfn/BayesianOptimization; Python package to implement SMBO(maximize)
 
 
 
